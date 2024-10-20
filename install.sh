@@ -8,7 +8,6 @@ set -e
 # Local constants.
 PIAPPS_URL="https://raw.githubusercontent.com/Botspot/pi-apps/master/install"
 # Paths.
-PATH_TO_HERE=$(dirname "$0")
 PIAPPS_MANAGE="$HOME/pi-apps/manage"
 
 ##########
