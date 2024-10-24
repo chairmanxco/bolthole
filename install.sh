@@ -2,8 +2,7 @@
 
 ### This script installs the software suite used in this project.
 
-# Crash on the first non-zero exit code.
-set -e
+set -e  # Crash on the first non-zero exit code.
 
 # Local constants.
 PIAPPS_URL="https://raw.githubusercontent.com/Botspot/pi-apps/master/install"
